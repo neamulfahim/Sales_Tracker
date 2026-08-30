@@ -3,11 +3,9 @@
 # 📊 Sales Tracker Dashboard | Power BI
 
 ### An End-to-End Interactive Sales Performance & Trend Analysis Report
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="28" role="img" aria-label="POWER BI"><title>POWER BI</title><g shape-rendering="crispEdges"><rect width="92" height="28" fill="#f2c811"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="460" y="175" textLength="680" font-weight="bold" fill="#333">POWER BI</text></g></svg>
+<img width="92" height="28" alt="Powerbi" src="https://github.com/user-attachments/assets/9b11285c-55ff-4055-9018-9a2389d4b0b9" />
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-217346?style=for-the-badge&logo=microsoft&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-0078D4?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 </div>
 
