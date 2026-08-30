@@ -15,7 +15,7 @@
 
 ## 🖼️ Dashboard Preview
 
-![Sales Tracker Dashboard](./assets/dashboard-preview.png)
+<img width="863" height="494" alt="Sales Tracker" src="https://github.com/user-attachments/assets/7b041f54-bcc7-4b30-acc7-3bf33b332702" />
 
 > *A single-page, fully interactive Power BI dashboard built to track sales value, volume, and pricing trends across brands, categories, and territories.*
 
